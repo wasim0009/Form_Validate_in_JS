@@ -1,5 +1,6 @@
 # 🌐 Form_Validate_in_JS 📝
 
+![ss form](https://github.com/wasim0009/Form_Validate_in_JS/assets/117257818/12d6a004-7048-4962-af0b-d8a4eed19471)
 
 **Project Overview:**
 Create a dynamic and user-friendly form validation project using JavaScript to enhance the user experience and ensure data accuracy. This project will involve implementing real-time validation checks for various form fields.
